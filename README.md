@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Seni
+- 👀 I’m interested in Video Games
+- 🌱 I’m currently learning c++ and c#,ImGui
+- 📫 How to reach me bogi.l#4931
